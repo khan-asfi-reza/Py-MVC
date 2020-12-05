@@ -1,0 +1,2 @@
+Title of the post\\\
+Body of the post

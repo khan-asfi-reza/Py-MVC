@@ -1,0 +1,24 @@
+{
+  "User": [
+    {
+      "id": 1,
+      "model_name": "User",
+      "username": "pranto",
+      "age": 12,
+      "password": "jl3hni_$&k=3CzZuJ",
+      "created": "12/05/2020, 02:49:06"
+    }
+  ],
+  "Posts": [
+
+  ],
+  "Books": [
+    {
+      "id": 1,
+      "model_name": "Books",
+      "name": "Game of thrones",
+      "publisher": "HarperCollins ",
+      "writer": "George R R Martin"
+    }
+  ]
+}
